@@ -1,0 +1,1 @@
+Used ADAfruit.IO to enable controlling LED through an external signal provided. This signal was configured using IFTTT. The adafruit key in config.h has been reset so that key needs to be modified to be usable.
